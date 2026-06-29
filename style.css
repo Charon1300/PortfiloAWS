@@ -21,6 +21,7 @@ section h2, section p, section h3, img{
 
 section{
     background-color: green;
+    
 
 }
 
@@ -35,16 +36,31 @@ section .Games{
     margin-top:15px;
     display: inline-block;
     font-size: larger;
+    font-weight: bold;
+}
+
+video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 img {
-    margin:10px;
+    margin:auto;
     display: block;
+    
+    
 }
+
+
 
 #Itch{
     padding-top: 25px;
     font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
@@ -62,5 +78,36 @@ nav a{
     flex: 1;
     text-align: center;
     margin:5px;
+}
+
+section section {
+
+    background-color: rgb(2, 80, 80);
+    
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    
+}
+
+section h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section section h3{
+
+    font-size: 200%;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 

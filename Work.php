@@ -20,11 +20,16 @@
     </nav>
 
     <section>
-        <h1 id="Itch"><a class="Games" href="https://butcher-pete.itch.io/" target="_blank">my Itch.io page</a></h1>
+        <h1 id="Itch"><a class="Games" href="https://butcher-pete.itch.io/" target="_blank">Itch.io Page</a></h1>
         <h2>Current released projects</h2>
         <section id="GlizzyRoller">
             <h3>Glizzy Roller</h3>
+            
             <img src="https://img.itch.zone/aW1nLzI1NTIxOTQ0LnBuZw==/315x250%23c/b07GGl.png" alt="Roller stake with ketchup and mustard on it" width="200" height="200">
+            <video width="960" height="540" controls autoplay>
+                <source src="https://i.imgur.com/qhGnf0Y.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video> 
             <a class="Games" href="https://butcher-pete.itch.io/glizzy-roller" target="_blank">Play Now</a>
             <p>Short roller staking platformer.</p>
 
