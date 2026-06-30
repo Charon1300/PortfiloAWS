@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Works</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=2">
 </head>
 
 <body>

@@ -18,6 +18,7 @@ section h2, section h3{
 section h2, section p, section h3, img{
     padding-top:10px;
     padding-bottom: 10px;
+    
 }
 
 .Paragraph {
@@ -123,3 +124,5 @@ section section h3{
 * {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+   
