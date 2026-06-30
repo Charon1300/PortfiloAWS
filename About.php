@@ -21,7 +21,7 @@
 
     <section>
         <h2>About me</h2>
-        <p>I'm Dillon Archer, I graduted from Rutgers Camden with a BA in computer science. I made this website to act as portfolio website</p>
+        <p class = "Paragraph">I'm Dillon Archer, I graduted from Rutgers Camden with a BA in computer science. I made this website to act as portfolio website</p>
     </section>
 
 </body>

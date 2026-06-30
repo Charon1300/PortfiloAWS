@@ -21,7 +21,7 @@
 
     <section>
         <h2>Welcome to my portfilo</h2>
-        <p>This is my website for placing all of my creative endeavors into one place. Currently there is not much but I hope to start new projects and finish current ones</p>
+        <p class = "Paragraph">This is my website for placing all of my creative endeavors into one place. Currently there is not much but I hope to start new projects and finish current ones</p>
     </section>
 </body>
 </html>

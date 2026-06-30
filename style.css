@@ -16,12 +16,18 @@ section h2, section h3{
 }
 
 section h2, section p, section h3, img{
-    padding:10px;
+    padding-top:10px;
+    padding-bottom: 10px;
+}
+
+.Paragraph {
+
+    padding-left: 10px;
 }
 
 section{
     background-color: green;
-    
+    padding-bottom: 10px;
 
 }
 
@@ -32,7 +38,7 @@ section .Games{
     background-color: palevioletred;
     border: 15px solid palevioletred;
     border-radius: 15px;
-    margin:20px;
+    
     margin-top:15px;
     display: inline-block;
     font-size: larger;
@@ -43,6 +49,9 @@ video {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 35px;
+    margin-bottom: 10px;
+
     
 }
 
@@ -111,3 +120,6 @@ section section h3{
     
 }
 
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
