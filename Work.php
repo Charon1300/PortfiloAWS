@@ -14,13 +14,13 @@
     </header>
 
     <nav id="TopNav">
-        <a href="PortfiloPage.php">Home</a>
+        <a href="index.php">Home</a>
         <a href="Work.php">Works</a>
         <a href="About.php">About</a>
     </nav>
 
     <section>
-        <!-- <h1 id="Itch"><a class="Games" href="https://butcher-pete.itch.io/" target="_blank">Itch.io Page</a></h1> -->
+        <h1 id="Itch"><a class="Games" href="https://butcher-pete.itch.io/" target="_blank">Itch.io Page</a></h1> 
         <h2>Current released projects</h2>
         <section id="GlizzyRoller">
             <h3>Glizzy Roller</h3>
@@ -29,7 +29,7 @@
                 <source src="https://i.imgur.com/9kcdh8d.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video> 
-            <!-- <a class="Games" href="https://butcher-pete.itch.io/glizzy-roller" target="_blank">Play Now</a> -->
+            <a class="Games" href="https://butcher-pete.itch.io/glizzy-roller" target="_blank">Play Now</a> 
             <p>Short roller staking platformer.</p>
 
             
@@ -43,7 +43,7 @@
                 <source src="https://i.imgur.com/qhGnf0Y.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video> 
-            <!-- <a class="Games" href="https://butcher-pete.itch.io/morpheus-helpers" target="_blank">Play Now</a> -->
+            <a class="Games" href="https://butcher-pete.itch.io/morpheus-helpers" target="_blank">Play Now</a> 
             <p>A short puzzle game where you have to control a bird to deactive traps and guide a dog towards a flag. Made for a college class.</p>
         </section>
 
@@ -54,7 +54,7 @@
                 <source src="https://i.imgur.com/n8VZ4fh.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video> 
-            <!-- <a class="Games" href="https://butcher-pete.itch.io/crossflare" target="_blank">Play Now</a> -->
+            <a class="Games" href="https://butcher-pete.itch.io/crossflare" target="_blank">Play Now</a> 
             <p>A simple short game about shooting targets with flares.</p>
         </section>
 
@@ -65,7 +65,7 @@
                 <source src="https://i.imgur.com/WZfplgn.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
-           <!-- <a class="Games" href="https://butcher-pete.itch.io/when-not-if" target="_blank">Play Now</a> -->
+            <a class="Games" href="https://butcher-pete.itch.io/when-not-if" target="_blank">Play Now</a> 
             <p>A narrative mystery game</p>
         </section>
 

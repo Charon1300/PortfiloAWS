@@ -14,7 +14,7 @@
     </header>
 
     <nav id="TopNav">
-        <a href="PortfiloPage.php">Home</a>
+        <a href="index.php">Home</a>
         <a href="Work.php">Works</a>
         <a href="About.php">About</a>
     </nav>
