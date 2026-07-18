@@ -46,6 +46,8 @@ section .Games{
     font-weight: bold;
 }
 
+
+/*
 video {
     display: flex;
     justify-content: center;
@@ -55,6 +57,37 @@ video {
 
     
 }
+*/
+
+.fullVideo{
+
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    box-sizing: border-box;
+
+}
+
+.fullVideo video{
+
+    height: 100%;
+    width: auto;
+    max-width: 100%;
+    margin-top: 35px;
+    margin-bottom: 10px;
+
+}
+
+/*for phones vertical*/
+@media all and (orientation:portrait) {
+/* Style adjustments for portrait mode goes here */
+    .fullVideo{
+        height: 50dvh;
+    }
+}
+
 
 img {
     margin:auto;
