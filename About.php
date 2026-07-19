@@ -5,7 +5,8 @@
 <head>
     <meta charset="UTF-8">
     <title>About</title>
-    <link rel="stylesheet" href="style.css?v=2">
+    <link rel="stylesheet" href="style.css?v=16">
+    <link rel="icon" type="image/x-icon" href="https://i.imgur.com/Va1qZsR.png">
 </head>
 
 <body>

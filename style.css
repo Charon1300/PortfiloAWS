@@ -80,6 +80,8 @@ video {
 
 }
 
+
+
 /*for phones vertical*/
 @media all and (orientation:portrait) {
 /* Style adjustments for portrait mode goes here */
@@ -96,16 +98,27 @@ img {
     
 }
 
-
-
-#Itch{
-    padding-top: 25px;
-    font-size: larger;
+section .topButtons{
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
+#Itch{
+    padding-top: 25px;
+    font-size: larger;
+    
+    margin: 0 auto;
+    display: inline;
+}
+
+#Git {
+    padding-top: 25px;
+    font-size: larger;
+    
+    margin: 0 auto;
+    display: inline;
+}
 
 #TopNav{
     display:flex;
