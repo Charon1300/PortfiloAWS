@@ -125,6 +125,17 @@ section .topButtons{
     flex-flow: row wrap;
 }
 
+.flexContainer{
+    display: flex;
+    gap: 10px;
+}
+
+.flex-child{
+    flex: 1 2 1;
+}
+
+
+
 nav a{
     display: inline-block;
     background-color: green;
