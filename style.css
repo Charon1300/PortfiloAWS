@@ -127,14 +127,29 @@ section .topButtons{
 
 .flexContainer{
     display: flex;
-    gap: 10px;
+    gap: 15px;
 }
 
-.flex-child{
+
+
+.flexlink{
     flex: 1 2 1;
+    padding-top: 10px;
 }
 
+/*for phones vertical*/
+@media all and (orientation:portrait) {
+/* Style adjustments for portrait mode goes here */
+    .flextitle{
+        padding-right: 50%;
+    }
+}
 
+@media only screen and (min-width: 992px){
+    .flextitle{
+        padding-right: 68%;
+    }
+}
 
 nav a{
     display: inline-block;
