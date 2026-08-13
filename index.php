@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Portfilo</title>
+    <title>Portfolio</title>
     <link rel="stylesheet" href="style.css?v=16">
     <link rel="icon" type="image/x-icon" href="https://i.imgur.com/Va1qZsR.png">
 </head>
@@ -13,7 +13,7 @@
     <header>
        <div class = "flexContainer">
             <div class = "flextitle">
-                <h1>Charon's Portfilo</h1>
+                <h1>Charon's Portfolio </h1>
             </div>
            
             
@@ -56,7 +56,7 @@
     </nav>
 
     <section>
-        <h2>Welcome to my portfilo</h2>
+        <h2>Welcome to my portfolio</h2>
         <p class = "Paragraph">This is my website for placing all of my creative endeavors into one place. Currently there is not much but I hope to start new projects and finish current ones</p>
     </section>
 </body>

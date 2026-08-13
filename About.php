@@ -13,7 +13,7 @@
     <header>
         <div class = "flexContainer">
             <div class = "flextitle">
-                <h1>Charon's Portfilo</h1>
+                <h1>Charon's Portfolio</h1>
             </div>
            
             
