@@ -47,6 +47,13 @@ section .Games{
     font-weight: bold;
 }
 
+.parnet{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
 
 /*
 video {
